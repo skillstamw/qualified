@@ -1,4 +1,4 @@
-"""module contains enumeration KeyFeature"""
+"""module contains enumeration KeyFeature: an important impression"""
 from enum import Enum
 
 class KeyFeature(Enum):
